@@ -39,7 +39,7 @@ setup(
     # For a discussion on single-sourcing the version across setup.py and the
     # project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.5.1',  # Required
+    version='0.5.2',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
@@ -179,9 +179,10 @@ setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        #'Bug Reports': 'https://github.com/pypa/sampleproject/issues',
+        'Bug Reports': 'https://github.com/hitch-b24/picosapi/issues',
+        'Documentation': 'https://github.com/hitch-b24/picosapi/wiki',
         #'Funding': 'https://donate.pypi.org',
-        #'Say Thanks!': 'http://saythanks.io/to/example',
+        'Say Thanks!': 'https://saythanks.io/to/picosapi',
         'Source': 'https://github.com/hitch-b24/picosapi/',
     },
 )
